@@ -1,2 +1,2 @@
 # Rental.github.io
-aplikasi rental mobil berbasis web
+Aplikasi Rental Mobil Berbasis Web
